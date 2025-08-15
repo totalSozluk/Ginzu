@@ -1,0 +1,24 @@
+{
+  "name": "Ginzu",
+  "symbol": "GINZU",
+  "description": "Ginzu (GINZU) is a Solana-based cryptocurrency, inspired by the legendary dragon — built for fast, low-cost transactions and limitless scalability.",
+  "image": "https://raw.githubusercontent.com/totalSozluk/Ginzu/refs/heads/main/Ginzu512.jpg",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://t.me/+T7Z66xtLmxIzY2Zk",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/totalSozluk/Ginzu/refs/heads/main/Ginzu512.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G1NZUrU8eELaCtbzi4z9THhe71L8mFu5EJtgjEGRfSfd",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}
